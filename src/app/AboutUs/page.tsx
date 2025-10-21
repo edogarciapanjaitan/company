@@ -11,7 +11,7 @@ const AboutUs = () => {
                 <Navbar />
                 <div className="flex relative">
                     <img className="h-[800px]"src=".\assets\about1.png" alt="contact" />
-                    <div className=" bg-[#1d87a6] w-1/2 opacity-80 absolute h-full flex flex-col left-0 text-white text-lg">
+                    <div className="bg-[#1d87a6] w-1/2 opacity-80 absolute h-full flex flex-col left-0 text-white text-lg">
                         <div className="p-23">
                             <h1 className="text-6xl mb-6">Our Business</h1>
                             <span className="mb-6">For 45 years, we have been committed to inspire and foster a healthy and joyful life, both physically and mentally, through our very own distinctive and premium brands: Tropicana Slim, NutriSari, L-Men, HiLo, W’dank, and Lokalate as well as related services and programs. Founded in Semarang, Indonesia, Nutrifood has been distributing the products all across more than 30 countries.</span>
@@ -20,10 +20,10 @@ const AboutUs = () => {
                             </p>
                             <p className="mt-6">Get our healthy product online at Nutrimart.</p>
                             <p className="flex h-[50px] w-[75px] mt-6 gap-3">
-                                <img className="flex flex-wrap" src="/assets/ts.png" alt="ts" />
-                                <img className="flex flex-wrap" src="/assets/hilo.png" alt="ts" />
-                                <img className="flex flex-wrap" src="/assets/ns.png" alt="ts" />
-                                <img className="flex flex-wrap" src="/assets/wdank.png" alt="ts" />
+                                <img className="flex flex-wrap" src="/assets/ts.png" alt="ts"/>
+                                <img className="flex flex-wrap" src="/assets/hilo.png" alt="ts"/>
+                                <img className="flex flex-wrap" src="/assets/ns.png" alt="ts"/>
+                                <img className="flex flex-wrap" src="/assets/wdank.png" alt="ts"/>
                                 <img className="flex flex-wrap" src="/assets/lokalate.png" alt="ts" />
                             </p>
                         </div>
@@ -31,7 +31,7 @@ const AboutUs = () => {
                 </div>
                 <div className="flex relative">
                     <img className="h-[700px]"src=".\assets\about2.png" alt="contact" />
-                    <div className=" bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col right-0 text-white text-lg">
+                    <div className="bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col right-0 text-white text-lg">
                         <div className="p-23">
                             <h1 className="text-6xl mb-6">Our "Second Home"</h1>
                             <span className="mb-6 text-[16px]">For us, our office is our "second home" (Rumah Kedua). Every bit is designed to create the feeling of being at home, where we are comfortable, mostly creative, and where we could have the positive mood of collaboration. Just as at home, we value honesty, integrity, and also respect differences, so that everyone could focus and strive for excellence.</span>
@@ -43,7 +43,7 @@ const AboutUs = () => {
                 </div>
                 <div className="flex relative">
                     <img className="h-[700px]"src=".\assets\about3.jpeg" alt="contact" />
-                    <div className=" bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col left-0 text-white text-lg">
+                    <div className="bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col left-0 text-white text-lg">
                         <div className="p-23">
                             <h1 className="text-6xl mb-6">Our Contributions</h1>
                             <span className="mb-6 text-[16px]">We are committed to be a part of global movement in achieving <span className="text-black"> Sustainable Development Goals</span>, primarily by contributing and making positive impact to people’s health and well-being, the environment, education, and inclusivity.
@@ -58,7 +58,7 @@ const AboutUs = () => {
                 </div>
                 <div className="flex relative">
                     <img className="h-[550px]" src=".\assets\about4.jpg" alt="contact" />
-                    <div className=" bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col right-0 text-white text-lg">
+                    <div className="bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col right-0 text-white text-lg">
                         <div className="p-23">
                             <h1 className="text-6xl mb-6">NutriHub: A Hub for Communities</h1>
                             <span className="mb-6 text-[16px]">Nutrihub is home for leaders, communities, and entrepreneurs to collaborate and make positive impact focused on inspiring a nutritious life through health, education, green, and inclusive pillars. Our NutriHub is available at several cities in Indonesia, such as Serpong, Bandung, Yogyakarta, and it’s still counting in near future.</span>
@@ -69,7 +69,7 @@ const AboutUs = () => {
                 </div>
                 <div className="flex relative">
                     <img className="h-[655px] w-full ml-[550px]" src=".\assets\about5.jpg" alt="contact" />
-                    <div className=" bg-[#1d87a6] w-1/2 opacity-90 absolute flex flex-wrap text-white text-lg">
+                    <div className="bg-[#1d87a6] w-1/2 opacity-90 absolute flex flex-wrap text-white text-lg">
                         <div className="p-20">
                             <h1 className="text-6xl mb-6">Our Publication</h1>
                             <span className="mb-6 text-[16px]">Nutrifood Research Center (NRC) helps fulfill Nutrifood’s mission of Inspiring Nutritious Life through high quality research studies. We believe that prevention is better than cure and science is the foundation of our product development. Therefore, we established NRC to collaborate with academic communities and explore the latest discoveries and developments in nutrition and health area.</span>

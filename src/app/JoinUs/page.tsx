@@ -35,19 +35,19 @@ const Join = () => {
                 
                 <div className="flex flex-wrap gap-2 mt-[30px]">
                         <label className="font-semibold">Name</label>
-                        <input type="text" name="nama" placeholder="Input Name..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md " required/>
+                        <input type="text" name="nama" placeholder="Input Name..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md" required/>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-[30px]">
                         <label className="font-semibold">NIK</label>
-                        <input type="num" name="nama" placeholder="Input NIK..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md " required/>
+                        <input type="num" name="nama" placeholder="Input NIK..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md" required/>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-[30px]">
                         <label className="font-semibold">Status</label>
-                        <input type="text" name="nama"  className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md " required/>
+                        <input type="text" name="nama"  className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md" required/>
                 </div>
                 <div className="flex flex-wrap gap-2 mt-[30px]">
                         <label className="font-semibold">Email</label>
-                        <input type="text" name="nama" placeholder="Input Email..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md " required/>
+                        <input type="text" name="nama" placeholder="Input Email..." className="justify-between w-full border border-zinc-500 py-2 px-2 rounded-md" required/>
                 </div>
             </div>
             <div className="border border-black w-[250px] h-[40px] rounded-full flex items-center justify-center-safe bg-green-500 text-white mx-auto hover:cursor-pointer">
