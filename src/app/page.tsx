@@ -4,12 +4,11 @@ import React from "react"
 import Home from "./Home/page";
 
 
-export const Company = () => {
+const Company = () => {
   return (
     <div className="w-screen">
     <Home /> 
-    </div>
-        
+    </div>       
   );
 }
 
