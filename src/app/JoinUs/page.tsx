@@ -27,7 +27,7 @@ const Join = () => {
                 <div className="text-red-500 mb-[30px]">
                     <ul>Jika terjadi error, dapat memperhatikan beberapa hal dibawah ini</ul>
                         <li>Lakukan pengisian dengan laptop.</li>
-                        <li> Hindari tanda baca seperti petik (') atau petik dua ("), minimal gunakan tanda baca koma (,) dan titik (.).</li>
+                        <li> Hindari tanda baca seperti petik, atau petik dua, minimal gunakan tanda baca koma dan titik.</li>
                         <li> Hindari penggunaan autocorrect pada browser.</li>
                 </div>
                 
