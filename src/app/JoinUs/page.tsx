@@ -22,7 +22,7 @@ const Join = () => {
                 </p>
                 <p className="mt-[20px]">As for current vacancies, kindly check Vacancy</p>
                 <p className="mt-[20px]">For more info please click FAQ</p>
-                <p className="mt-[20px]">"Please read carefully for each question before filling the form"</p>
+                <p className="mt-[20px]">Please read carefully for each question before filling the form</p>
                 
                 <div className="text-red-500 mb-[30px]">
                     <ul>Jika terjadi error, dapat memperhatikan beberapa hal dibawah ini</ul>

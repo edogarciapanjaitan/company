@@ -33,8 +33,8 @@ const AboutUs = () => {
                     <img className="h-[700px]"src=".\assets\about2.png" alt="contact" />
                     <div className="bg-[#1d87a6] w-1/2 opacity-100 absolute h-full flex flex-col right-0 text-white text-lg">
                         <div className="p-23">
-                            <h1 className="text-6xl mb-6">Our "Second Home"</h1>
-                            <span className="mb-6 text-[16px]">For us, our office is our "second home" (Rumah Kedua). Every bit is designed to create the feeling of being at home, where we are comfortable, mostly creative, and where we could have the positive mood of collaboration. Just as at home, we value honesty, integrity, and also respect differences, so that everyone could focus and strive for excellence.</span>
+                            <h1 className="text-6xl mb-6">Our Second Home</h1>
+                            <span className="mb-6 text-[16px]">For us, our office is our second home (Rumah Kedua). Every bit is designed to create the feeling of being at home, where we are comfortable, mostly creative, and where we could have the positive mood of collaboration. Just as at home, we value honesty, integrity, and also respect differences, so that everyone could focus and strive for excellence.</span>
                             
                             <p className="mt-6 text-[16px]">Our second home also encourages everyone to eat and exercise well, to act an environmental-friendly attitude, and to bring-forth the spirit of youth, with which we believe can contribute very well to growth and innovation..
                             </p>
